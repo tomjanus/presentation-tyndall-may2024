@@ -9,7 +9,7 @@
 
 ---
 
-<img class="r-stretch" style="border-radius: 40px; box-shadow: 20px 20px 55px rgba(180, 180, 180, 0.35);" src="images/graphical_abstract_no_frames.bw.drawio.png" />
+<img class="r-stretch" style="border-radius: 10px;" src="images/graphical_abstract_no_frames.bw.drawio.png" />
 
 ---
 
